@@ -1,7 +1,7 @@
 # FrontendMentorChallenge---Perfume-Product
 This is for Frontend-mentor
 
-![](/FrontendMentorChallenge---Perfume-Product/img/perfume01.png)
+![](/img/perfume01.png)
 
 
 
